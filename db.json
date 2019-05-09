@@ -31,17 +31,6 @@
 			"supportedTA": [""],
 			"utilitylocation": "/bin/abbott/error/utility.bh.en.json"
 		},
-		"bo": {
-			"countryCode": "bo",
-			"regionCode": "cenam",
-			"defaultName": "Bolivia",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.bo.es.json"
-		},
 		"br": {
 			"countryCode": "br",
 			"regionCode": "br",
@@ -206,83 +195,6 @@
 			"IDPDataCenter": "eu1",
 			"supportedTA": [""],
 			"utilitylocation": "/bin/abbott/error/utility.mu.en.json"
-		},
-		"mx": {
-			"countryCode": "mx",
-			"regionCode": "mx",
-			"defaultName": "Mexico",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_x_0xthjxgVpxXyJymQnxGNnu50ezEODqWJVjHYr-q4DtW9nsVfJCT408WJNjWEJ1",
-			"IDPDataCenter": "us1",
-			"supportedTA": ["cardio", "neurociencias", "neurology", "gastroenterology", "respiratory", "pregnancy", "vertigo", "heart-health", "general-health"],
-			"utilitylocation": "/bin/abbott/error/utility.mx.es.json"
-		},
-		"ni": {
-			"countryCode": "ni",
-			"regionCode": "cenam",
-			"defaultName": "Nicaragua",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ni.es.json"
-		},
-		"ng": {
-			"countryCode": "ng",
-			"regionCode": "mea",
-			"defaultName": "Nigeria",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ng.en.json"
-		},
-		"om": {
-			"countryCode": "om",
-			"regionCode": "gulf",
-			"defaultName": "Oman",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.om.en.json"
-		},
-		"pa": {
-			"countryCode": "pa",
-			"regionCode": "cenam",
-			"defaultName": "Panama",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ni.es.json"
-		},
-		"py": {
-			"countryCode": "py",
-			"regionCode": "py",
-			"defaultName": "Paraguay",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.py.es.json"
-		},
-		"pe": {
-			"countryCode": "pe",
-			"regionCode": "pe",
-			"defaultName": "Peru",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.pe.es.json"
 		},
 		"ph": {
 			"countryCode": "ph",
