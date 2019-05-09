@@ -9,51 +9,6 @@
 			"tr": "Turkish"
 	},
 	"markets": {
-			 
-			"bh":{
-				"countryCode": "bh",
-				"regionCode": "gulf",
-				"defaultName": "Bahrain",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.bh.en.json"
-			},
-			"br":{
-				"countryCode": "br",
-				"regionCode": "br",
-				"defaultName": "Brazil",
-				"languageSupported": ["pt"],
-				"defaultLanguage": "pt",
-				"IDPAPIKey": "3_BZTiGwr1A92C2nxTAUPfIcZurZDMYH8ehyFLWU_KhcI6kmBJomAs-sI1pVYs0cfL",
-				"IDPDataCenter": "us1",
-				"supportedTA": ["Gastro", "SaudedoCoracao"],
-				"utilitylocation": "/bin/abbott/error/utility.br.pt.json"
-			}, 
-			"co":{
-				"countryCode": "co",
-				"regionCode": "co",
-				"defaultName": "Colombia",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"IDPAPIKey": "3_siXRom2buYfMRAwG8lUsQAPW3J_pyCqfCoSXXMvfKbW0Ph6dk-DI1uB0nmfnWfUn",
-				"IDPDataCenter": "us1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.cl.es.json"
-			},
-			"cr":{
-				"countryCode": "cr",
-				"regionCode": "cenam",
-				"defaultName": "Costa Rica",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-				"IDPDataCenter": "us1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.cr.es.json"
-			}, 
 			"in":{
 				"countryCode": "in",
 				"regionCode": "in",
@@ -108,17 +63,6 @@
 				"IDPDataCenter": "au1",
 				"supportedTA": ["cardio", "womens-health", "respiratory", "tim-mach", "suc-khoe-phu-nu", "ho-hap"],
 				"utilitylocation": "/bin/abbott/error/utility.vn.vi.json"
-			}, 
-			"ua":{
-				"countryCode": "ua",
-				"regionCode": "ua",
-				"defaultName": "Ukraine",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPAPIKey": "3_50kPND33xRLwt5mlZ5ArMRKBzaqsA_0-Jtnik3mKE06S8H6qDxGH_uCx0aGEmkzc",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.ua.en.json"
 			}, 
 			"uy":{
 				"countryCode": "uy",
