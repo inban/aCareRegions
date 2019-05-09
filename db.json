@@ -1,343 +1,212 @@
 {
 	"language_description": {
-		"hi": "Hindi",
-		"en": "English",
-		"es": "Spanish",
-		"ru": "Russian",
-		"vi": "Vietnamese",
-		"pt": "Portuguese",
-		"tr": "Turkish"
+			"hi": "Hindi",
+			"en": "English",
+			"es": "Spanish",
+			"ru": "Russian",
+			"vi": "Vietnamese",
+			"pt": "Portuguese",
+			"tr": "Turkish"
 	},
 	"markets": {
-		"ar": {
-			"countryCode": "ar",
-			"regionCode": "cenam",
-			"defaultName": "Argentina",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ar.es.json"
-		},
-		"bh": {
-			"countryCode": "bh",
-			"regionCode": "gulf",
-			"defaultName": "Bahrain",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.bh.en.json"
-		},
-		"br": {
-			"countryCode": "br",
-			"regionCode": "br",
-			"defaultName": "Brazil",
-			"languageSupported": ["pt"],
-			"defaultLanguage": "pt",
-			"IDPAPIKey": "3_BZTiGwr1A92C2nxTAUPfIcZurZDMYH8ehyFLWU_KhcI6kmBJomAs-sI1pVYs0cfL",
-			"IDPDataCenter": "us1",
-			"supportedTA": ["Gastro", "SaudedoCoracao"],
-			"utilitylocation": "/bin/abbott/error/utility.br.pt.json"
-		},
-		"cl": {
-			"countryCode": "cl",
-			"regionCode": "cl",
-			"defaultName": "Chile",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_QasXhCOfYDyhoA8MhI9NnHxX5qTKgUFd_lWLXYIzx_NUo7z5EHXy2oAOw3XJJQCW",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.cl.es.json"
-		},
-		"co": {
-			"countryCode": "co",
-			"regionCode": "co",
-			"defaultName": "Colombia",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_siXRom2buYfMRAwG8lUsQAPW3J_pyCqfCoSXXMvfKbW0Ph6dk-DI1uB0nmfnWfUn",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.cl.es.json"
-		},
-		"cr": {
-			"countryCode": "cr",
-			"regionCode": "cenam",
-			"defaultName": "Costa Rica",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.cr.es.json"
-		},
-		"do": {
-			"countryCode": "do",
-			"regionCode": "cenam",
-			"defaultName": "Dominican Republic",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.do.es.json"
-		},
-		"ec": {
-			"countryCode": "ec",
-			"regionCode": "cenam",
-			"defaultName": "Ecuador",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ec.es.json"
-		},
-		"sv": {
-			"countryCode": "sv",
-			"regionCode": "cenam",
-			"defaultName": "El Salvador",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.sv.es.json"
-		},
-		"gt": {
-			"countryCode": "gt",
-			"regionCode": "cenam",
-			"defaultName": "Guatemala",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.gt.es.json"
-		},
-		"hn": {
-			"countryCode": "hn",
-			"regionCode": "cenam",
-			"defaultName": "Honduras",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.hn.es.json"
-		},
-		"hk": {
-			"countryCode": "hk",
-			"regionCode": "hk",
-			"defaultName": "Hong Kong",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_haROS2w5vTe-Dabj6O6MzXXGNYqr1qo2_2TEO7EPbv7Eogg_EFePDc9CvxEjrO2z",
-			"IDPDataCenter": "au1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.hk.en.json"
-		},
-		"in": {
-			"countryCode": "in",
-			"regionCode": "in",
-			"defaultName": "India",
-			"languageSupported": ["en", "hi"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_L86YvxmkY45J43YGa0vwUYUVBSS_SeUh7zRDHgs--earMxTh2OydBMrCyLpEHFIb",
-			"IDPDataCenter": "au1",
-			"supportedTA": ["osteoarthritis", "diabetes", "hypothyroidism", "vertigo"],
-			"utilitylocation": "/bin/abbott/error/utility.in.en.json"
-		},
-		"iq": {
-			"countryCode": "iq",
-			"regionCode": "gulf",
-			"defaultName": "Iraq",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.iq.en.json"
-		},
-		"ke": {
-			"countryCode": "ke",
-			"regionCode": "mea",
-			"defaultName": "Kenya",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ke.en.json"
-		},
-		"kw": {
-			"countryCode": "kw",
-			"regionCode": "gulf",
-			"defaultName": "Kuwait",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.kw.en.json"
-		},
-		"mu": {
-			"countryCode": "mu",
-			"regionCode": "mea",
-			"defaultName": "Mauritius",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.mu.en.json"
-		},
-		"ph": {
-			"countryCode": "ph",
-			"regionCode": "ph",
-			"defaultName": "Philippines",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_fUyR4Okswg-j2jnG7V2XzuXYRqy3VLf9CqqSrfpvZcLjgyIsu9GMxuAEqk3imQz7",
-			"IDPDataCenter": "us1",
-			"supportedTA": ["cardio", "womens-health", "neurology", "gastroenterology", "respiratory", "pregnancy", "vertigo", "heart-health", "general-health"],
-			"utilitylocation": "/bin/abbott/error/utility.ph.en.json"
-		},
-		"qa": {
-			"countryCode": "qa",
-			"regionCode": "gulf",
-			"defaultName": "Qatar",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.qt.en.json"
-		},
-		"ru": {
-			"countryCode": "ru",
-			"regionCode": "ru",
-			"defaultName": "Russia",
-			"languageSupported": ["ru"],
-			"defaultLanguage": "ru",
-			"IDPAPIKey": "3_aGxC1Vpl9_rLA3tDpqOAXhhsw8X8LjCINS1LkCt1-B0zxk0TWheimsgkhDdNtWXz",
-			"IDPDataCenter": "ru1",
-			"supportedTA": ["cardio", "women-health", "gastroenterology", "neurology", "arterial-hypertension", "myocardial-infarction", "dyslipidemia", "arrhythmia", "gastritis", "abdominal-pain", "irritable-bowel-syndrome", "diarrhea", "constipation", "dizziness"],
-			"utilitylocation": "/bin/abbott/error/utility.ru.ru.json"
-		},
-		"sa": {
-			"countryCode": "sa",
-			"regionCode": "sa",
-			"defaultName": "Saudi Arabia",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_s9o-LGCKHR3jV38AlmXUvjASiM-X3oNVRvoWRT-ZPqF6RakCWybb7T_5hpiWv13s",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.sa.en.json"
-		},
-		"za": {
-			"countryCode": "za",
-			"regionCode": "mea",
-			"defaultName": "South Africa",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.za.en.json"
-		},
-		"tw": {
-			"countryCode": "tw",
-			"regionCode": "tw",
-			"defaultName": "Taiwan",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_JXdxaI3SRWXgcUX8Ef6PygF08MlXAscKvlMDRwz9wtwoZ1Ke5o4E5xqYx1r1dEA0",
-			"IDPDataCenter": "au1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.tw.en.json"
-		},
-		"th": {
-			"countryCode": "th",
-			"regionCode": "th",
-			"defaultName": "Thailand",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3___o2DJFWAWU_5oQOQ_G18ONGOh6-dD8oK6VdA2PTFljnYX012agMbt3gW-nM-1u1",
-			"IDPDataCenter": "au1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.th.en.json"
-		},
-		"tr": {
-			"countryCode": "tr",
-			"regionCode": "tr",
-			"defaultName": "Turkey",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_Ra8ai3qP4irApDjvqZ0fCj47tkHbNVnPwnzLw5mKnBtZ9iFzZwc1JlBiib3J7QcZ",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.tr.en.json"
-		},
-		"ae": {
-			"countryCode": "ae",
-			"regionCode": "ae",
-			"defaultName": "United Arab Emirates",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_50kPND33xRLwt5mlZ5ArMRKBzaqsA_0-Jtnik3mKE06S8H6qDxGH_uCx0aGEmkzc",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ae.en.json"
-		},
-		"vn": {
-			"countryCode": "vn",
-			"regionCode": "vn",
-			"defaultName": "Vietnam",
-			"languageSupported": ["vi"],
-			"defaultLanguage": "vi",
-			"IDPAPIKey": "TBD",
-			"IDPDataCenter": "au1",
-			"supportedTA": ["cardio", "womens-health", "respiratory", "tim-mach", "suc-khoe-phu-nu", "ho-hap"],
-			"utilitylocation": "/bin/abbott/error/utility.vn.vi.json"
-		},
-		"ua": {
-			"countryCode": "ua",
-			"regionCode": "ua",
-			"defaultName": "Ukraine",
-			"languageSupported": ["en"],
-			"defaultLanguage": "en",
-			"IDPAPIKey": "3_50kPND33xRLwt5mlZ5ArMRKBzaqsA_0-Jtnik3mKE06S8H6qDxGH_uCx0aGEmkzc",
-			"IDPDataCenter": "eu1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.ua.en.json"
-		},
-		"uy": {
-			"countryCode": "uy",
-			"regionCode": "cenam",
-			"defaultName": "Uruguay",
-			"languageSupported": ["es"],
-			"defaultLanguage": "es",
-			"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
-			"IDPDataCenter": "us1",
-			"supportedTA": [""],
-			"utilitylocation": "/bin/abbott/error/utility.uy.es.json"
-		}
+			 
+			"bh":{
+				"countryCode": "bh",
+				"regionCode": "gulf",
+				"defaultName": "Bahrain",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.bh.en.json"
+			},
+			"br":{
+				"countryCode": "br",
+				"regionCode": "br",
+				"defaultName": "Brazil",
+				"languageSupported": ["pt"],
+				"defaultLanguage": "pt",
+				"IDPAPIKey": "3_BZTiGwr1A92C2nxTAUPfIcZurZDMYH8ehyFLWU_KhcI6kmBJomAs-sI1pVYs0cfL",
+				"IDPDataCenter": "us1",
+				"supportedTA": ["Gastro", "SaudedoCoracao"],
+				"utilitylocation": "/bin/abbott/error/utility.br.pt.json"
+			}, 
+			"co":{
+				"countryCode": "co",
+				"regionCode": "co",
+				"defaultName": "Colombia",
+				"languageSupported": ["es"],
+				"defaultLanguage": "es",
+				"IDPAPIKey": "3_siXRom2buYfMRAwG8lUsQAPW3J_pyCqfCoSXXMvfKbW0Ph6dk-DI1uB0nmfnWfUn",
+				"IDPDataCenter": "us1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.cl.es.json"
+			},
+			"cr":{
+				"countryCode": "cr",
+				"regionCode": "cenam",
+				"defaultName": "Costa Rica",
+				"languageSupported": ["es"],
+				"defaultLanguage": "es",
+				"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
+				"IDPDataCenter": "us1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.cr.es.json"
+			}, 
+			"in":{
+				"countryCode": "in",
+				"regionCode": "in",
+				"defaultName": "India",
+				"languageSupported": ["en", "hi"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_L86YvxmkY45J43YGa0vwUYUVBSS_SeUh7zRDHgs--earMxTh2OydBMrCyLpEHFIb",
+				"IDPDataCenter": "au1",
+				"supportedTA": ["osteoarthritis", "diabetes", "hypothyroidism", "vertigo"],
+				"utilitylocation": "/bin/abbott/error/utility.in.en.json"
+			},
+			"ph":{
+				"countryCode": "ph",
+				"regionCode": "ph",
+				"defaultName": "Philippines",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_fUyR4Okswg-j2jnG7V2XzuXYRqy3VLf9CqqSrfpvZcLjgyIsu9GMxuAEqk3imQz7",
+				"IDPDataCenter": "us1",
+				"supportedTA": ["cardio", "womens-health", "neurology", "gastroenterology", "respiratory", "pregnancy", "vertigo", "heart-health", "general-health"],
+				"utilitylocation": "/bin/abbott/error/utility.ph.en.json"
+			}, 
+			"qa":{
+				"countryCode": "qa",
+				"regionCode": "gulf",
+				"defaultName": "Qatar",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.qt.en.json"
+			}, 
+			"ru":{
+				"countryCode": "ru",
+				"regionCode": "ru",
+				"defaultName": "Russia",
+				"languageSupported": ["ru"],
+				"defaultLanguage": "ru",
+				"IDPAPIKey": "3_aGxC1Vpl9_rLA3tDpqOAXhhsw8X8LjCINS1LkCt1-B0zxk0TWheimsgkhDdNtWXz",
+				"IDPDataCenter": "ru1",
+				"supportedTA": ["cardio", "women-health", "gastroenterology", "neurology", "arterial-hypertension", "myocardial-infarction", "dyslipidemia", "arrhythmia", "gastritis", "abdominal-pain", "irritable-bowel-syndrome", "diarrhea", "constipation", "dizziness"],
+				"utilitylocation": "/bin/abbott/error/utility.ru.ru.json"
+			}, 
+			"sa":{
+				"countryCode": "sa",
+				"regionCode": "sa",
+				"defaultName": "Saudi Arabia",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_s9o-LGCKHR3jV38AlmXUvjASiM-X3oNVRvoWRT-ZPqF6RakCWybb7T_5hpiWv13s",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.sa.en.json"
+			}, 
+			"za":{
+				"countryCode": "za",
+				"regionCode": "mea",
+				"defaultName": "South Africa",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_Jajp4g5Gx7IPyANz9zWC6whBiyBqI7luEfYLIKlH_IbXEFr4bp3GdP5mQwY93_HY",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.za.en.json"
+			}, 
+			"tw":{
+				"countryCode": "tw",
+				"regionCode": "tw",
+				"defaultName": "Taiwan",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_JXdxaI3SRWXgcUX8Ef6PygF08MlXAscKvlMDRwz9wtwoZ1Ke5o4E5xqYx1r1dEA0",
+				"IDPDataCenter": "au1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.tw.en.json"
+			}, 
+			"th":{
+				"countryCode": "th",
+				"regionCode": "th",
+				"defaultName": "Thailand",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3___o2DJFWAWU_5oQOQ_G18ONGOh6-dD8oK6VdA2PTFljnYX012agMbt3gW-nM-1u1",
+				"IDPDataCenter": "au1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.th.en.json"
+			}, 
+			"tr":{
+				"countryCode": "tr",
+				"regionCode": "tr",
+				"defaultName": "Turkey",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_Ra8ai3qP4irApDjvqZ0fCj47tkHbNVnPwnzLw5mKnBtZ9iFzZwc1JlBiib3J7QcZ",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.tr.en.json"
+			}, 
+			"ae":{
+				"countryCode": "ae",
+				"regionCode": "ae",
+				"defaultName": "United Arab Emirates",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_50kPND33xRLwt5mlZ5ArMRKBzaqsA_0-Jtnik3mKE06S8H6qDxGH_uCx0aGEmkzc",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.ae.en.json"
+			}, 
+			"vn":{
+				"countryCode": "vn",
+				"regionCode": "vn",
+				"defaultName": "Vietnam",
+				"languageSupported": ["vi"],
+				"defaultLanguage": "vi",
+				"IDPAPIKey": "TBD",
+				"IDPDataCenter": "au1",
+				"supportedTA": ["cardio", "womens-health", "respiratory", "tim-mach", "suc-khoe-phu-nu", "ho-hap"],
+				"utilitylocation": "/bin/abbott/error/utility.vn.vi.json"
+			}, 
+			"ua":{
+				"countryCode": "ua",
+				"regionCode": "ua",
+				"defaultName": "Ukraine",
+				"languageSupported": ["en"],
+				"defaultLanguage": "en",
+				"IDPAPIKey": "3_50kPND33xRLwt5mlZ5ArMRKBzaqsA_0-Jtnik3mKE06S8H6qDxGH_uCx0aGEmkzc",
+				"IDPDataCenter": "eu1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.ua.en.json"
+			}, 
+			"uy":{
+				"countryCode": "uy",
+				"regionCode": "cenam",
+				"defaultName": "Uruguay",
+				"languageSupported": ["es"],
+				"defaultLanguage": "es",
+				"IDPAPIKey": "3_kWx9S4lcv45VYVoyXHsiguH4tRu3aCgqCa52FMlXdo_z0MCZTfGiA7BFGNTXV9ty",
+				"IDPDataCenter": "us1",
+				"supportedTA": [""],
+				"utilitylocation": "/bin/abbott/error/utility.uy.es.json"
+			}
 	},
 	"regions": {
-		"cenam": "Central and North America",
-		"gulf": "Gulf Region",
-		"mea": "Middle East and Africa"
+			"cenam": "Central and North America",
+			"gulf": "Gulf Region",
+			"mea": "Middle East and Africa"
 	},
 	"acareportal": {
 		"marketList": ["ar", "bh"],
 		"marketConfig": {
-			"in": {
+			"in":{
 				"countryCode": "in",
 				"url": "https://www.acare.co.in/",
 				"homepage": "homepage.html",
@@ -345,8 +214,8 @@
 				"languageSupported": ["en", "hi"],
 				"defaultLanguage": "en",
 				"isMarketLive": "true"
-			},
-			"ph": {
+			}, 
+			"ph":{
 				"countryCode": "ph",
 				"url": "https://www.acare.ph/",
 				"homepage": "homepage.html",
@@ -354,8 +223,8 @@
 				"languageSupported": ["en"],
 				"defaultLanguage": "en",
 				"isMarketLive": "true"
-			},
-			"mx": {
+			}, 
+			"mx":{
 				"countryCode": "mx",
 				"url": "https://www.acare.mx/",
 				"homepage": "homepage.html",
@@ -363,8 +232,8 @@
 				"languageSupported": ["es"],
 				"defaultLanguage": "es",
 				"isMarketLive": "false"
-			},
-			"br": {
+			}, 
+			"br":{
 				"countryCode": "br",
 				"url": "https://www.acare.com.br/",
 				"homepage": "homepage.html",
@@ -373,7 +242,7 @@
 				"defaultLanguage": "pt",
 				"isMarketLive": "true"
 			},
-			"vn": {
+			"vn":{
 				"countryCode": "vn",
 				"url": "https://www.acare.abbott.vn/",
 				"homepage": "trang-chu.html",
@@ -381,8 +250,8 @@
 				"languageSupported": ["vi"],
 				"defaultLanguage": "vi",
 				"isMarketLive": "true"
-			},
-			"ru": {
+			}, 
+			"ru":{
 				"countryCode": "ru",
 				"url": "https://www.acare.ru/",
 				"homepage": "homepage.html",
@@ -399,22 +268,22 @@
 		"accountInfoService": "/api/profile/accountinfo",
 		"siteLoginService": "/api/profile/site-login",
 		"marketConfig": {
-			"in": {
+			"in":{
 				"url": "https://www.acare.co.in",
 				"homepage": "homepage.html",
 				"loginpage": "acare-login.html",
 				"languageSupported": ["en", "hi"],
 				"defaultLanguage": "en",
 				"isMarketLive": "true"
-			},
-			"ph": {
+			}, 
+			"ph":{
 				"url": "https://www.acare.ph",
 				"homepage": "homepage.html",
 				"loginpage": "acare-login.html",
 				"languageSupported": ["en"],
 				"defaultLanguage": "en",
 				"isMarketLive": "true"
-			},
+			}, 
 			"mx": {
 				"url": "https://www.acare.mx",
 				"homepage": "homepage.html",
@@ -422,7 +291,7 @@
 				"languageSupported": ["es"],
 				"defaultLanguage": "es",
 				"isMarketLive": "false"
-			},
+			}, 
 			"br": {
 				"url": "https://www.acare.com.br/",
 				"homepage": "homepage.html",
@@ -430,7 +299,7 @@
 				"languageSupported": ["pt"],
 				"defaultLanguage": "pt",
 				"isMarketLive": "true"
-			},
+			}, 
 			"vn": {
 				"url": "https://www.acare.abbott.vn/",
 				"homepage": "trang-chu.html",
@@ -438,7 +307,7 @@
 				"languageSupported": ["vi"],
 				"defaultLanguage": "vi",
 				"isMarketLive": "true"
-			},
+			}, 
 			"ru": {
 				"url": "https://www.acare.ru/",
 				"homepage": "homepage.html",
@@ -462,7 +331,7 @@
 				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
 				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
 				"isMarketLive": "true"
-			},
+			}, 
 			"ph": {
 				"languageSupported": ["en"],
 				"defaultLanguage": "en",
@@ -470,7 +339,7 @@
 				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
 				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
 				"isMarketLive": "true"
-			},
+			}, 
 			"co": {
 				"languageSupported": ["es"],
 				"defaultLanguage": "es",
@@ -478,7 +347,7 @@
 				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
 				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
 				"isMarketLive": "false"
-			},
+			}, 
 			"ru": {
 				"languageSupported": ["ru"],
 				"defaultLanguage": "ru",
@@ -486,7 +355,7 @@
 				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
 				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
 				"isMarketLive": "true"
-			}
 		}
 	}
+}
 }
