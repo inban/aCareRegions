@@ -248,67 +248,7 @@
 				"IDPDataCenter": "ru1",
 				"supportedTA": ["cardio", "women-health", "gastroenterology", "neurology", "arterial-hypertension", "myocardial-infarction", "dyslipidemia", "arrhythmia", "gastritis", "abdominal-pain", "irritable-bowel-syndrome", "diarrhea", "constipation", "dizziness"],
 				"utilitylocation": "/bin/abbott/error/utility.ru.ru.json"
-			}, 
-			"sa":{
-				"countryCode": "sa",
-				"regionCode": "sa",
-				"defaultName": "Saudi Arabia",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.sa.en.json"
-			}, 
-			"za":{
-				"countryCode": "za",
-				"regionCode": "mea",
-				"defaultName": "South Africa",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.za.en.json"
-			}, 
-			"tw":{
-				"countryCode": "tw",
-				"regionCode": "tw",
-				"defaultName": "Taiwan",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "au1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.tw.en.json"
-			}, 
-			"th":{
-				"countryCode": "th",
-				"regionCode": "th",
-				"defaultName": "Thailand",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "au1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.th.en.json"
-			}, 
-			"tr":{
-				"countryCode": "tr",
-				"regionCode": "tr",
-				"defaultName": "Turkey",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.tr.en.json"
-			}, 
-			"ae":{
-				"countryCode": "ae",
-				"regionCode": "ae",
-				"defaultName": "United Arab Emirates",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.ae.en.json"
-			}, 
+			},   
 			"vn":{
 				"countryCode": "vn",
 				"regionCode": "vn",
@@ -319,92 +259,12 @@
 				"IDPDataCenter": "au1",
 				"supportedTA": ["cardio", "womens-health", "respiratory", "tim-mach", "suc-khoe-phu-nu", "ho-hap"],
 				"utilitylocation": "/bin/abbott/error/utility.vn.vi.json"
-			}, 
-			"ua":{
-				"countryCode": "ua",
-				"regionCode": "ua",
-				"defaultName": "Ukraine",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPAPIKey": "3_50kPND33xRLwt5mlZ5ArMRKBzaqsA_0-Jtnik3mKE06S8H6qDxGH_uCx0aGEmkzc",
-				"IDPDataCenter": "eu1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.ua.en.json"
-			}, 
-			"uy":{
-				"countryCode": "uy",
-				"regionCode": "cenam",
-				"defaultName": "Uruguay",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"IDPDataCenter": "us1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.uy.es.json"
 			}
 	},
 	"regions": {
 			"cenam": "Central and North America",
 			"gulf": "Gulf Region",
 			"mea": "Middle East and Africa"
-	},
-	"acareportal": {
-		"marketList": ["ar", "bh"],
-		"marketConfig": {
-			"in":{
-				"countryCode": "in",
-				"url": "https://www.acare.co.in/",
-				"homepage": "homepage.html",
-				"loginpage": "acare-login.html",
-				"languageSupported": ["en", "hi"],
-				"defaultLanguage": "en",
-				"isMarketLive": "true"
-			}, 
-			"ph":{
-				"countryCode": "ph",
-				"url": "https://www.acare.ph/",
-				"homepage": "homepage.html",
-				"loginpage": "acare-login.html",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"isMarketLive": "true"
-			}, 
-			"mx":{
-				"countryCode": "mx",
-				"url": "https://www.acare.mx/",
-				"homepage": "homepage.html",
-				"loginpage": "acare-login.html",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"isMarketLive": "false"
-			}, 
-			"br":{
-				"countryCode": "br",
-				"url": "https://www.acare.com.br/",
-				"homepage": "homepage.html",
-				"loginpage": "acare-login.html",
-				"languageSupported": ["pt"],
-				"defaultLanguage": "pt",
-				"isMarketLive": "true"
-			},
-			"vn":{
-				"countryCode": "vn",
-				"url": "https://www.acare.abbott.vn/",
-				"homepage": "trang-chu.html",
-				"loginpage": "dang-nhap.html",
-				"languageSupported": ["vi"],
-				"defaultLanguage": "vi",
-				"isMarketLive": "true"
-			}, 
-			"ru":{
-				"countryCode": "ru",
-				"url": "https://www.acare.ru/",
-				"homepage": "homepage.html",
-				"loginpage": "acare-login.html",
-				"languageSupported": ["ru"],
-				"defaultLanguage": "ru",
-				"isMarketLive": "true"
-			}
-		}
 	},
 	"acarewrapper": {
 		"marketList": ["in", "ph", "mx", "br", "vn", "ru"],
