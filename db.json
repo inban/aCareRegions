@@ -89,26 +89,6 @@
 				"supportedTA": [""],
 				"utilitylocation": "/bin/abbott/error/utility.do.es.json"
 			}, 
-			"ec":{
-				"countryCode": "ec",
-				"regionCode": "cenam",
-				"defaultName": "Ecuador",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"IDPDataCenter": "us1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.ec.es.json"
-			},
-			"sv":{
-				"countryCode": "sv",
-				"regionCode": "cenam",
-				"defaultName": "El Salvador",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"IDPDataCenter": "us1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.sv.es.json"
-			},
 			"gt":{
 				"countryCode": "gt",
 				"regionCode": "cenam",
@@ -119,26 +99,6 @@
 				"supportedTA": [""],
 				"utilitylocation": "/bin/abbott/error/utility.gt.es.json"
 			}, 
-			"hn":{
-				"countryCode": "hn",
-				"regionCode": "cenam",
-				"defaultName": "Honduras",
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"IDPDataCenter": "us1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.hn.es.json"
-			}, 
-			"hk":{
-				"countryCode": "hk",
-				"regionCode": "hk",
-				"defaultName": "Hong Kong",
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"IDPDataCenter": "au1",
-				"supportedTA": [""],
-				"utilitylocation": "/bin/abbott/error/utility.hk.en.json"
-			},
 			"in":{
 				"countryCode": "in",
 				"regionCode": "in",
