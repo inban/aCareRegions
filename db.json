@@ -501,45 +501,5 @@
 				"isMarketLive": "true"
 			}
 		}
-	},
-	"acaremobile": {
-		"marketList": ["in", "co", "ph", "ru"],
-		"applicationID": "acaremobile",
-		"accountInfoService": "/api/profile/accountinfo",
-		"siteLoginService": "/api/profile/site-login",
-		"marketConfig": {
-			"in": {
-				"languageSupported": ["en", "hi"],
-				"defaultLanguage": "en",
-				"defaultTA": ["vertigo"],
-				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
-				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
-				"isMarketLive": "true"
-			}, 
-			"ph": {
-				"languageSupported": ["en"],
-				"defaultLanguage": "en",
-				"defaultTA": ["vertigo"],
-				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
-				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
-				"isMarketLive": "true"
-			}, 
-			"co": {
-				"languageSupported": ["es"],
-				"defaultLanguage": "es",
-				"defaultTA": ["vertigo"],
-				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
-				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
-				"isMarketLive": "false"
-			}, 
-			"ru": {
-				"languageSupported": ["ru"],
-				"defaultLanguage": "ru",
-				"defaultTA": ["vertigo"],
-				"workoutsURLPath": "/content/dam/epd/acare/ph/mobile/workouts.json",
-				"exercisesURLPath": "/content/dam/epd/acare/ph/mobile/exercises.json",
-				"isMarketLive": "true"
-		}
 	}
-}
 }
